@@ -14,7 +14,7 @@
 
 ## Dica
 
-No final das contas, esta arquitetura é apenas uma coleção de boas ideias baseadas em princípios bem fundamentados (como Separação de interesses).
+No final das contas, esta arquitetura é apenas uma coleção de boas ideias baseadas em princípios bem fundamentados (como Separation of Concerns).
 
 **PENSE** primeiro, depois **AJA**.
 
